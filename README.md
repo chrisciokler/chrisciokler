@@ -1,11 +1,11 @@
-<br>
+
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian but you can call me Chris.
 
 
 ### A little more about me...
 
-<br>
+
 
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
@@ -16,7 +16,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 ">Always Learning.</h2> 
 </div>
 
-<br>
+
 
 - 🔭 I’m currently working on cool secret stuff
 - 🌱 I’m currently learning C#, Svelte, and Azure
@@ -28,13 +28,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<br>
+
 
 
 ### Socials
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
   <a style="padding-right: 16px" href="https://www.linkedin.com/in/chrisciokler/">
@@ -51,13 +51,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </a>
 </div>
 
-<br>
-<br>
+
+
 
 ### Programming Languages
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -77,12 +77,12 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-<br>
+
 
 ### Frontend Technologies
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -102,13 +102,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-<br>
+
 
 
 ### Backend Technologies
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -122,13 +122,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-<br>
+
 
 
 ### Databases
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -145,13 +145,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-<br>
+
 
 
 ### Cloud Technologies
 
 
-<br>
+
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -171,7 +171,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-<br>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisciokler&layout=compact)](https://github.com/chrisciokler/github-readme-stats)
