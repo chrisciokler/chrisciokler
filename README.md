@@ -36,7 +36,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<div style="display:grid; grid-columns:auto; align-items:center; ">
+<div style="display:grid; grid-columns: 20% 20% 20% 20%; align-items:center; gap:16px;">
   <a href="https://www.linkedin.com/in/chrisciokler/">
     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" height="50">
   </a>
