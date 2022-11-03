@@ -29,7 +29,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <!-- - ⚡ Fun fact: ... -->
 
 
-
+<br>
 
 ## Socials
 
@@ -50,7 +50,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </a>
 </div>
 
-
+<br>
 
 ## I am a FullStack Web Developer
 
