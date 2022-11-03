@@ -3,7 +3,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian but you can call me Chris.
 
 
-## A little more about me...
+### A little more about me...
 
 <br>
 
@@ -31,7 +31,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 
-## Socials
+### Socials
 
 
 <br>
@@ -54,7 +54,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 <br>
 
-## Programming Languages
+### Programming Languages
 
 
 <br>
@@ -79,7 +79,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-## Frontend Technologies
+### Frontend Technologies
 
 
 <br>
@@ -105,7 +105,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 
-## Backend Technologies
+### Backend Technologies
 
 
 <br>
@@ -125,7 +125,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 
-## Databases
+### Databases
 
 
 <br>
@@ -148,7 +148,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 
-## Cloud Technologies
+### Cloud Technologies
 
 
 <br>
