@@ -37,7 +37,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
-  <a href="https://www.linkedin.com/in/chrisciokler/">
+  <a style="padding-right: 16px" href="https://www.linkedin.com/in/chrisciokler/">
     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" height="50">
   </a>
   <a href="https://twitter.com/Aniket965" style="margin-left: 16px;">
