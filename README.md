@@ -31,7 +31,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 
-### Socials
+## Socials
 
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
@@ -52,6 +52,9 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 
+## I am a FullStack Web Developer
+
+<br>
 
 ### Programming Languages
 
