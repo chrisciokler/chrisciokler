@@ -59,7 +59,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<code>
 <table>
   <tr>
     <td>
@@ -80,7 +79,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </tr>
   <tr>
 </table>
-</code>
 
 <br>
 
@@ -89,7 +87,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<code>
 <table>
   <tr>
     <td>
@@ -110,7 +107,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </tr>
   <tr>
 </table>
-</code>
 
 <br>
 
@@ -120,7 +116,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<code>
 <table>
   <tr>
     <td>
@@ -135,7 +130,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </tr>
   <tr>
 </table>
-</code>
 
 <br>
 
@@ -145,7 +139,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<code>
 <table>
   <tr>
     <td>
@@ -163,7 +156,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </tr>
   <tr>
 </table>
-</code>
 
 <br>
 
@@ -173,7 +165,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<code>
 <table>
   <tr>
     <td>
@@ -194,7 +185,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   </tr>
   <tr>
 </table>
-</code>
 
 <br>
 
