@@ -7,6 +7,7 @@
 
 <br>
 
+<code>
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
   <h2 style="font-size: 3rem; font-weight: bold; background: #278CCF;
@@ -15,6 +16,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 -webkit-text-fill-color: transparent;
 ">Always Learning.</h2>
 </div>
+</code>
 
 <br>
 
