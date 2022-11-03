@@ -7,16 +7,14 @@
 
 <br>
 
-<code>
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
   <h2 style="font-size: 3rem; font-weight: bold; background: #278CCF;
 background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-">Always Learning.</h2>
+">Always Learning.</h2> 
 </div>
-</code>
 
 <br>
 
@@ -38,7 +36,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; align-items:center; gap:1rem; ">
+<div style="display:flex; flex-direction:row; align-items:center; gap:1rem; ">
   <a href="https://www.linkedin.com/in/chrisciokler/">
     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" height="50">
   </a>
