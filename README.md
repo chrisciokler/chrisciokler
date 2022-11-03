@@ -4,7 +4,7 @@
 
 
 ## A little more about me...
-***
+
 <br>
 
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
@@ -32,7 +32,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ## Socials
-***
+
 
 <br>
 
@@ -55,7 +55,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 ## Programming Languages
-***
+
 
 <br>
 
@@ -85,7 +85,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 <br>
 
 ## Frontend Technologies
-***
+
 
 <br>
 
@@ -116,7 +116,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ## Backend Technologies
-***
+
 
 <br>
 
@@ -141,7 +141,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ## Databases
-***
+
 
 <br>
 
@@ -169,7 +169,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ## Cloud Technologies
-***
+
 
 <br>
 
@@ -198,5 +198,5 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-***
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisciokler&layout=compact)](https://github.com/chrisciokler/github-readme-stats)
