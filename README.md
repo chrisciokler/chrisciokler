@@ -171,7 +171,3 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
 </div>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisciokler&layout=compact)](https://github.com/chrisciokler/github-readme-stats)
