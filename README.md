@@ -81,7 +81,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 
-### Frontend Technologies
+### Frontend Technologies since 2019.
 
 
 
