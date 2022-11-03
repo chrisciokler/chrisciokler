@@ -10,11 +10,11 @@
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
 <a>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
-  <h2 style="font-size: 3rem; font-weight: bold; background: #278CCF;
+  <p style="font-size: 3rem; font-weight: bold; background: #278CCF;
 background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-">Always Learning.</h2> 
+">Always Learning.</p> 
 </a>
 </div>
 
