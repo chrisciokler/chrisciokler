@@ -40,13 +40,13 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
   <a href="https://www.linkedin.com/in/chrisciokler/">
     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" height="50">
   </a>
-  <a href="https://twitter.com/Aniket965" style="margin-left: 1rem;">
+  <a href="https://twitter.com/Aniket965" style="margin-left: 16px;">
     <img src="https://cdn.svgporn.com/logos/twitter.svg" width="50" height="50">
   </a>
-  <a href="https://www.instagram.com/aniket965/" style="margin-left: 1rem;">
+  <a href="https://www.instagram.com/aniket965/" style="margin-left: 16px;">
     <img src="https://cdn.svgporn.com/logos/facebook.svg" width="50" height="50">
   </a>
-  <a href="https://www.facebook.com/aniket965/" style="margin-left: 1rem;">
+  <a href="https://www.facebook.com/aniket965/" style="margin-left: 16px;">
     <img src="https://cdn.svgporn.com/logos/instagram-icon.svg" width="50" height="50">
   </a>
 </div>
