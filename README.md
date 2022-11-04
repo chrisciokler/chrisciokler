@@ -54,9 +54,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 ### Programming Languages
 
-
-
-
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -78,9 +75,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ### Frontend Technologies.
-
-
-
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -105,9 +99,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 ### Backend Technologies
 
-
-
-
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
@@ -122,9 +113,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 ### Databases
-
-
-
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
@@ -146,9 +134,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 ### Cloud Technologies
 
-
-
-
 <div style="display:flex; flex-direction:row; align-items:center; ">
     <a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
@@ -166,6 +151,10 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
       <img src="https://cdn.svgporn.com/logos/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
     </a>
 </div>
+
+<br>
+
+## Metrics
 
 <br>
 
