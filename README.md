@@ -55,6 +55,54 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
+### These are the technologies that I have the most experience with.
+
+<div style="display:flex; flex-direction:row; align-items:center; ">
+    <a target="_blank" href="https://www.javascript.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://go.dev/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://www.w3schools.com/html/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://www.w3schools.com/css/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://reactjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://nextjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"/>
+    <a>
+    <a target="_blank" href="https://nodejs.org/en/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://expressjs.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://www.postgresql.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://www.cloudflare.com/">
+      <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="Cloudflare" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://supabase.com/">
+      <img src="https://cdn.svgporn.com/logos/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+      </a>
+</div>
+
+- **But I worked and code with all the technologies below.**
+
+<br>
+
 ### Programming Languages
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
