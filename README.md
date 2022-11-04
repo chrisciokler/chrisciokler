@@ -10,11 +10,13 @@
   <a href="https://twitter.com/chrisciokler" style="margin-left: 16px;">
     <img src="https://cdn.svgporn.com/logos/twitter.svg" width="50" height="50">
   </a>
-  <a href="https://www.instagram.com/aniket965/" style="margin-left: 16px;">
-    <img src="https://cdn.svgporn.com/logos/facebook.svg" width="50" height="50">
-  </a>
-  <a href="https://www.facebook.com/christian.pradociokler/" style="margin-left: 16px;">
+	
+  <a href="http://instagram.com/chris_ciokler" style="margin-left: 16px;">
     <img src="https://cdn.svgporn.com/logos/instagram-icon.svg" width="50" height="50">
+  </a>
+	
+  <a href="https://www.facebook.com/christian.pradociokler/" style="margin-left: 16px;">
+    <img src="https://cdn.svgporn.com/logos/facebook.svg" width="50" height="50">
   </a>
 </div>
 
