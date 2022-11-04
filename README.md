@@ -12,7 +12,7 @@
   </a>
 	
   <a target="_blank" href="http://instagram.com/chris_ciokler" style="margin-left: 16px;">
-    <img src="https://cdn.svgporn.com/logos/instagram-icon.svg" width="50" height="50">
+    <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" width="50" height="50">
   </a>
 	
   <a target="_blank" href="https://www.facebook.com/christian.pradociokler/" style="margin-left: 16px;">
@@ -96,6 +96,12 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
     <a target="_blank" href="https://supabase.com/">
       <img src="https://cdn.svgporn.com/logos/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+      </a>
+      <a target="_blank" href="https://git-scm.com/">
+      <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
+      </a>
+      <a target="_blank" href="https://www.docker.com/">
+      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="40" height="40"/>
       </a>
 </div>
 
