@@ -48,7 +48,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-## I am a FullStack Web Developer
+## I am a FullStack Web Developer since 2019
 
 <br>
 
@@ -77,7 +77,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 
-### Frontend Technologies since 2019.
+### Frontend Technologies.
 
 
 
