@@ -37,7 +37,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 - 🔭 I’m currently working on cool secret stuff
-- 🌱 I’m currently learning C#, Svelte, and Azure
+- 🌱 I’m currently learning Rust, Svelte, and Azure Cloud Tech
 - ⚡ 🛠 Interested in: Desktop, mobile, frontend, Backend, devOps, Cloud
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -63,9 +63,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
     </a>
     <a target="_blank" href="https://www.typescriptlang.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://go.dev/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://www.w3schools.com/html/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -99,9 +96,6 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
       </a>
       <a target="_blank" href="https://git-scm.com/">
       <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
-      </a>
-      <a target="_blank" href="https://www.docker.com/">
-      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="40" height="40"/>
       </a>
 </div>
 
