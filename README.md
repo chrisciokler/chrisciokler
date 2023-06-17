@@ -51,7 +51,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-## I am a FullStack Web Developer since 2019
+## I am a Software Developer since 2019
 
 <br>
 
