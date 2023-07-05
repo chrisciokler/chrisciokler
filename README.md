@@ -24,7 +24,6 @@
 ### A little more about me...
 
 
-
 <div align="center" style="display:flex; flex-direction:row; align-items:center; ">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
   <p style="font-size: 3rem; font-weight: bold; background: #278CCF;
@@ -37,7 +36,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 
 - 🔭 I’m currently working on cool secret stuff
-- 🌱 I’m currently learning Rust, Svelte, and Azure Cloud Tech
+- 🌱 I’m currently learning Golang, Svelte, and Azure Cloud Tech
 - ⚡ 🛠 Interested in: Desktop, mobile, frontend, Backend, devOps, Cloud
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -51,7 +50,7 @@ background: linear-gradient(to right, #278CCF 0%, #B430CF 100%);
 
 <br>
 
-## I am a Software Developer since 2019
+## I am a Software Developer since 2021
 
 <br>
 
