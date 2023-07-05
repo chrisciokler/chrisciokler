@@ -1,6 +1,6 @@
 
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian but you can call me Chris.
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian.
 
 <div style="display:flex; flex-direction:row; align-items:center; ">
   <a target="_blank" href="https://www.linkedin.com/in/christian-misael-prado-ciokler-5553a41a7/">
