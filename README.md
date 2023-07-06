@@ -23,10 +23,10 @@
 
 ### A little more about me...
 
-- 🔭 I’m currently working on cool secret stuff
-- 🌱 I’m currently learning Golang, Svelte, and Azure Cloud Tech
+<!-- - 🔭 Currently working on cool secret stuff -->
+- 🌱 Currently learning Golang, Svelte, and Azure Cloud Tech
 - ⚡ 🛠 Interested in: Desktop, mobile, frontend, Backend, devOps, Cloud
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 Looking to collaborate on interesting projects 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
