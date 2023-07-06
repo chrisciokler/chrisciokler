@@ -85,8 +85,8 @@
       <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
       </a>
 </div>
-
-- **But I worked and code with all the technologies below.**
+     
+## **But I worked with all the technologies below at some point on my career.**
 
 <br>
 
