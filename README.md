@@ -15,8 +15,11 @@ I'm a self-taught and highly motivated Full Stack Developer, with a rich backgro
 ### Backend Development
 
 - ✅ Skilled in Node.js, developing scalable, efficient backend systems.
-- ✅ Experienced with PostgreSQL, managing and optimizing data with ease.
-- ✅ Familiar with Cloudflare technologies, enhancing website speed and security.
+- ✅ Proficient in Node.js, which I use to develop scalable and efficient backend systems.
+- ✅ Experience with RESTful API development, GraphQL, and tRPC for building robust and flexible APIs.
+- ✅ Familiarity with technologies like Express.js and Fastify for creating web applications and microservices.
+- ✅ Knowledge of database systems like PostgreSQL, MongoDB, and MySQL for efficient data storage and retrieval.
+- ✅ Experience with authentication and authorization mechanisms like JWT and OAuth for secure user management.
 
 ### Cloud Development
 
