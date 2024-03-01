@@ -4,6 +4,14 @@
 
 I'm a self-taught and highly motivated Full Stack Developer, with a rich background in web and app development. With a fervor for technology's intricacies and an unyielding drive for continuous learning, I've mastered JavaScript, TypeScript, Node.js, PostgreSQL, among many other technologies.
 
+## 📬 Let's Connect
+
+If you're in need of a Full Stack Developer with a consistent record of high-quality results, I'm ready to connect. Eager to collaborate and create websites and apps that meet your requirements. Reach out so we can discuss your project!
+
+**Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
+
+**Linkedin:** [@chrisciokler](https://www.linkedin.com/in/chris-ciokler-5553a41a7/)
+
 ## 💻 Technical Skills
 
 ### Frontend Development
@@ -48,11 +56,4 @@ I'm a self-taught and highly motivated Full Stack Developer, with a rich backgro
 
 - Currently enhancing my skills in Golang and PHP.
 
-## 📬 Let's Connect
-
-If you're in need of a Full Stack Developer with a consistent record of high-quality results, I'm ready to connect. Eager to collaborate and create websites and apps that meet your requirements. Reach out so we can discuss your project!
-
-**Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
-
-**Linkedin:** [@chrisciokler](https://www.linkedin.com/in/chris-ciokler-5553a41a7/)
 
