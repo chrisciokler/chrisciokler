@@ -33,7 +33,7 @@ If you're in need of a Full Stack Developer with a consistent record of high-qua
 
 ### Cloud Development
 
-- ✅ Experienced with Cloudflare Cloud ecosystem: Pages, Workers, KV D1, and R2.
+- ✅ Experienced with Cloudflare Cloud ecosystem: Pages, Workers, KV, D1, and R2.
 - ✅ Proficient in integrating Amazon Cognito, AWS Lambda, S3, Amplify, etc., creating seamless, secure applications.
 - ✅ Used Google Auth, Google Functions, and Firebase to enhance user experiences with Google Cloud Platform (GCP) services.
 - ✅ Experienced with Supabase, providing secure, scalable backend services for projects.
