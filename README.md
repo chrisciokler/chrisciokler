@@ -9,7 +9,9 @@ I'm a self-taught and highly motivated Full Stack Developer, with a rich backgro
 If you're in need of a Full Stack Developer with a consistent record of high-quality results, I'm ready to connect. Eager to collaborate and create websites and apps that meet your requirements. Reach out so we can discuss your project!
 
 **Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
+
 **Github:** [@chrisciokler](https://github.com/chrisciokler/chrisciokler)
+
 **Linkedin:** [@chrisciokler](https://www.linkedin.com/in/chris-ciokler-5553a41a7/)
 
 ## 💻 Technical Skills
