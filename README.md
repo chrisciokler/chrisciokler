@@ -10,7 +10,7 @@ If you're in need of a Full Stack Developer with a consistent record of high-qua
 
 **Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
 
-**Github:** [@chrisciokler](https://github.com/chrisciokler/chrisciokler)
+**Github:** [@chrisciokler](https://github.com/chrisciokler)
 
 **Linkedin:** [@chrisciokler](https://www.linkedin.com/in/chris-ciokler-5553a41a7/)
 
