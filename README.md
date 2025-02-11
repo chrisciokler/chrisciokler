@@ -1,6 +1,6 @@
 
 
-# Chris Ciokler - Full Stack Developer
+# Chris Ciokler - Senior Software Developer Engineer
 
 
 I am a self-taught and highly motivated Full Stack Developer with a strong background in web and app development. My passion for understanding the intricacies of technology and continuous self-learning have empowered me to acquire proficiency in JavaScript, TypeScript, Node.js, PostgreSQL, and various other technologies.
