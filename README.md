@@ -1,10 +1,66 @@
+# Christian Prado Ciokler - Senior Full Stack Developer
 
+## **5 years of experience in web development.**
 
-# Chris Ciokler - Senior Software Developer Engineer
+## **Contact information**
 
+**Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
+**LinkedIn:** [@chrisciokler](https://www.linkedin.com/in/chrisciokler)
+**Github**: [@chrisciokler](https://github.com/chrisciokler/)
+**Website:** [chrisciokler.com](https://www.chrisciokler.com)
+**Phone:** +535 296 8988
 
-I am a self-taught and highly motivated Full Stack Developer with a strong background in web and app development. My passion for understanding the intricacies of technology and continuous self-learning have empowered me to acquire proficiency in JavaScript, TypeScript, Node.js, PostgreSQL, and various other technologies.
+## **Academic formation**
 
+I am a self-taught and highly motivated developer with a strong background in web and app development. My passion for understanding the intricacies of technology and continuous self-learning have empowered me to acquire proficiency in JavaScript, TypeScript, Node.js, PostgreSQL, and various other technologies.
+
+### **Certifications**
+
+#### **freeCodeCamp**
+- **Responsive Web Design Certification**
+  - Comprehensive training in HTML5, CSS3, and responsive design principles
+  - Hands-on experience creating responsive layouts and mobile-first websites
+
+- **JavaScript Algorithms and Data Structures (Version 8)**
+  - Advanced JavaScript programming concepts and problem-solving
+  - Implementation of fundamental data structures and algorithms
+  - Practice with modern ES6+ features and functional programming
+
+#### **Sololearn**
+- **C Programming**
+  - Fundamentals of C programming language
+  - Memory management and pointer manipulation
+  - Data structures implementation in C
+
+- **JavaScript Course**
+  - Core JavaScript concepts and ES6+ features
+  - Asynchronous programming and promises
+  - Object-oriented programming in JavaScript
+
+- **jQuery Course**
+  - DOM manipulation and event handling
+  - AJAX and JSON operations
+  - jQuery plugins and UI components
+
+- **CSS Course**
+  - Advanced CSS styling techniques
+  - Flexbox and Grid layouts
+  - CSS animations and transitions
+
+- **HTML Course**
+  - Semantic HTML markup
+  - Forms and input validation
+  - HTML5 APIs and features
+
+- **Web Development Fundamentals**
+  - Full-stack web development principles
+  - Client-server architecture
+  - Web security basics
+
+- **Responsive Web Design**
+  - Mobile-first design approach
+  - Media queries and breakpoints
+  - Responsive images and typography
 ## **Technical Skills**
 
 #### **Frontend Development**
@@ -16,7 +72,7 @@ I am a self-taught and highly motivated Full Stack Developer with a strong backg
 #### **Backend Development**
 - Proficient in Node.js (with TypeScript) and PHP (specifically CakePHP 5), which I use to develop scalable and efficient backend systems.
 - Experience with RESTful API development, GraphQL, and tRPC for building robust and flexible APIs.
-- Familiarity with technologies like Express.js and Fastify for creating web applications and microservices.
+- Familiarity with technologies like Express.js, Hapi.js and Fastify for creating web applications and microservices.
 - Knowledge of database systems like PostgreSQL, MongoDB, MySQL, and Redis for efficient data storage and retrieval.
 - Experience with authentication and authorization mechanisms like JWT and OAuth for secure user management.
 - Proficient in Python scripting for various backend tasks and automation.
@@ -58,13 +114,37 @@ I am a self-taught and highly motivated Full Stack Developer with a strong backg
 #### **Troubleshooting**
 - Experienced in troubleshooting and debugging in distributed environments.
 
-## **Latest Projects**
+## **Work Experience**
 
-- **[Businesses Directory - Cubapyme](https://cubapyme.com):** Developed a centralized platform connecting businesses with customers, managing business information, showcasing products/services, and aiding in finding employment/collaboration opportunities. Utilized technologies like Next.js, Node.js, PostgreSQL, Supabase, and S3, and implemented user authentication mechanisms.
-    
-- **[AI Site Analyzer](https://aiwebpageanalyzer.com):** Designed an AI-powered web page analyzer with advanced capabilities for comprehensive website analysis. Used Next.js, Cloudflare workers, R1 database, and integrated OpenAI technology for AI-enabled analysis.
-    
-- **[Classified Ads Site and Mobile App - Tukatanuncios](https://tukattanuncios.com):** Created a platform connecting businesses with customers, providing a centralized place for businesses to manage information, showcase products/services, and find employment/collaboration opportunities. Implemented user authentication and used DynamoDB for database management.
+### **NTSPRINT** (2022 - Present)
+
+**Senior Software Development Engineering Manager** - [ntsprint.com](https://ntsprint.com)
+- Experienced rapid career growth from SDE I to Senior SDE Manager in 18 months
+- Career progression: SDE I → SDE II → Senior SDE → Senior SDE Manager
+- Currently managing development teams, maintaining client relationships, and providing technical leadership
+
+### **Independent Projects** (2019 - Present)
+
+**Verify550** - Email Verification System - [verify550.com](https://verify550.com)
+- Designed and implemented comprehensive email verification infrastructure
+- Architected MongoDB sharding solution for high-performance requirements
+- Developed automated deployment pipelines and user interface with CakePHP
+
+**Intellyverse** - AI SaaS Platform - [intellyverse.com](https://intellyverse.com)
+- Built multimodal AI assistant platform integrating OpenAI, Anthropic, Groq, and Google
+- Implemented robust architecture using Next.js, AWS, PostgreSQL, Redis, and Cloudflare
+
+**Cubapyme** - Business Directory Platform - [cubapyme.com](https://cubapyme.com)
+- Developed centralized business platform using Next.js, Node.js, PostgreSQL
+- Implemented comprehensive user authentication and business management features
+
+**AI Site Analyzer** - Web Analysis Tool - [aiwebpageanalyzer.com](https://aiwebpageanalyzer.com)
+- Created AI-powered analysis platform using Next.js and Cloudflare infrastructure
+- Integrated OpenAI technology for advanced website analysis
+
+**Tukatanuncios** - Classified Ads Platform - [tukatanuncios.com](https://tukattanuncios.com)
+- Built full-stack marketplace platform with mobile app
+- Implemented DynamoDB-based data management and user authentication
 
 ## **Soft Skills**
 
@@ -77,16 +157,3 @@ I am a self-taught and highly motivated Full Stack Developer with a strong backg
 ## **Ongoing Learning**
 
 - Currently enhancing my skills in Golang.
-
-## **Let's Connect**
-
-If you're looking for a Full Stack Developer with a track record of delivering high-quality results, I would love to connect. I am always ready to collaborate and create functional websites and apps that meet your requirements. Don't hesitate to reach out to me so we can discuss your project further!
-
-**Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
-
-**LinkedIn:** [@chrisciokler](https://www.linkedin.com/in/chris-ciokler-5553a41a7/)
-
-**Website:** [chrisciokler.com](https://www.chrisciokler.com)
-
-Please feel free to contact me at your convenience.
-
