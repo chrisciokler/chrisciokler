@@ -1,159 +1,90 @@
-# Christian Prado Ciokler - Senior Full Stack Developer
+# Christian Misael Prado Ciokler
 
-## **5 years of experience in web development.**
+## 👨‍💻 Senior Software Developer
 
-## **Contact information**
+*5 years of experience in software development*
 
-**Email:** [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
-**LinkedIn:** [@chrisciokler](https://www.linkedin.com/in/chrisciokler)
-**Github**: [@chrisciokler](https://github.com/chrisciokler/)
-**Website:** [chrisciokler.com](https://www.chrisciokler.com)
-**Phone:** +535 296 8988
+## 📫 Contact Information
 
-## **Academic formation**
+[![Email](https://img.shields.io/badge/Email-dev%40chrisciokler.com-blue?style=flat-square&logo=gmail)](mailto:dev@chrisciokler.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chrisciokler-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chrisciokler)
+[![GitHub](https://img.shields.io/badge/GitHub-chrisciokler-181717?style=flat-square&logo=github)](https://github.com/chrisciokler/)
+[![Website](https://img.shields.io/badge/Website-chrisciokler.com-green?style=flat-square&logo=google-chrome)](https://www.chrisciokler.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B535%20296%208988-green?style=flat-square&logo=whatsapp)](tel:+5352968988)
 
-I am a self-taught and highly motivated developer with a strong background in web and app development. My passion for understanding the intricacies of technology and continuous self-learning have empowered me to acquire proficiency in JavaScript, TypeScript, Node.js, PostgreSQL, and various other technologies.
+## 💼 Professional Experience
 
-### **Certifications**
+### NTSprint (2023-Present)
+- Senior Software Development Engineering Manager
+- Rapid growth: SDE I → SDE II → Senior SDE → Senior SDE Manager
 
-#### **freeCodeCamp**
-- **Responsive Web Design Certification**
-  - Comprehensive training in HTML5, CSS3, and responsive design principles
-  - Hands-on experience creating responsive layouts and mobile-first websites
+### Freelance (2020-Present)
+- [**Verify550:**](https://verify550.com) Email verification system with MongoDB sharding
+- [**Intellyverse:**](https://intellyverse.com) AI SaaS platform using Next.js, AWS, PostgreSQL
+- [**Cubapyme:**](https://cubapyme.com/) Business directory with Next.js, Node.js, PostgreSQL
+- [**AI Site Analyzer:**](https://www.aiwebpageanalyzer.com/) Web analysis tool with OpenAI integration
+- [**Escapology:**](https://escapology.com/) Escape rooms service with NodeJS Express and AWS RDS for MySQL
 
-- **JavaScript Algorithms and Data Structures (Version 8)**
-  - Advanced JavaScript programming concepts and problem-solving
-  - Implementation of fundamental data structures and algorithms
-  - Practice with modern ES6+ features and functional programming
+## 🛠️ Technical Skills
 
-#### **Sololearn**
-- **C Programming**
-  - Fundamentals of C programming language
-  - Memory management and pointer manipulation
-  - Data structures implementation in C
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- **JavaScript Course**
-  - Core JavaScript concepts and ES6+ features
-  - Asynchronous programming and promises
-  - Object-oriented programming in JavaScript
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **jQuery Course**
-  - DOM manipulation and event handling
-  - AJAX and JSON operations
-  - jQuery plugins and UI components
+### Cloud
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-- **CSS Course**
-  - Advanced CSS styling techniques
-  - Flexbox and Grid layouts
-  - CSS animations and transitions
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **HTML Course**
-  - Semantic HTML markup
-  - Forms and input validation
-  - HTML5 APIs and features
+## 🎓 Education & Certifications
 
-- **Web Development Fundamentals**
-  - Full-stack web development principles
-  - Client-server architecture
-  - Web security basics
+Self-taught developer with expertise in web and app development. Proficient in JavaScript, TypeScript, Node.js, PostgreSQL, and related technologies through continuous learning and hands-on experience.
 
-- **Responsive Web Design**
-  - Mobile-first design approach
-  - Media queries and breakpoints
-  - Responsive images and typography
-## **Technical Skills**
+### Certifications
+- **FreeCodeCamp:** Responsive Web Design; JavaScript Algorithms & Data Structures
+- **Sololearn:** C Programming, JavaScript, jQuery, CSS, HTML, Web Development, Responsive Design
 
-#### **Frontend Development**
-- Expertise in JavaScript and TypeScript, which I have leveraged to create engaging and interactive user interfaces.
-- Experience with React, React Native, and Vue.js, enabling me to build user-friendly interfaces in web and mobile applications.
-- Proficient in working with frameworks like Next.js and Astro for optimizing website performance and efficient server-side rendered applications.
-- Skilled in using Tailwind CSS for rapid and responsive UI development.
+## 🌐 Languages
 
-#### **Backend Development**
-- Proficient in Node.js (with TypeScript) and PHP (specifically CakePHP 5), which I use to develop scalable and efficient backend systems.
-- Experience with RESTful API development, GraphQL, and tRPC for building robust and flexible APIs.
-- Familiarity with technologies like Express.js, Hapi.js and Fastify for creating web applications and microservices.
-- Knowledge of database systems like PostgreSQL, MongoDB, MySQL, and Redis for efficient data storage and retrieval.
-- Experience with authentication and authorization mechanisms like JWT and OAuth for secure user management.
-- Proficient in Python scripting for various backend tasks and automation.
+- **Spanish** - Native
+- **English** - Fluent
 
-#### **Cloud Development**
-- Experience with Cloudflare Cloud ecosystem like Pages, Workers, KV D1, and R2.
-- Proficient in integrating Amazon Cognito, AWS Lambda, S3, Amplify, and other AWS Services to create seamless and secure applications.
-- Utilized Google Auth, Google Functions, and Firebase to enhance user experiences through Google Cloud Platform (GCP) services.
-- Experience with Supabase, providing secure and scalable backend services for projects.
+## 📚 Ongoing Learning
 
-#### **DevOps and CI/CD**
-- Implemented CI/CD pipelines using GitHub Actions for automated testing and deployment.
-- Experience with PM2 for Node.js application process management.
-- Proficient in Git version control for collaborative development.
-- Implemented continuous monitoring and logging practices for maintaining system health and performance.
+- Currently enhancing my skills in Golang and learning Rust.
 
-#### **System Architecture and Performance**
-- Designed and implemented microservices architecture for scalable applications.
-- Applied load balancing techniques and caching strategies to optimize system performance.
-- Experience in performance optimization for distributed systems.
+---
 
-#### **Server Administration and Networking**
-- Proficient in Linux server administration (Ubuntu & CentOS).
-- Experience with SSH and remote server management.
-- Skilled in cPanel management for web hosting administration.
-- Configured and managed networking and firewalls (UFW).
-- Knowledge of SMTP protocol and email server configuration.
-- Experience with Tor network configuration and proxy server management.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisciokler&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-#### **Web Technologies and Security**
-- Implemented web scraping techniques for data collection.
-- Configured and managed DNS settings.
-- Set up and managed email servers, including SPF record configuration.
-- Applied security best practices for web applications.
-
-#### **Scripting and Automation**
-- Proficient in Bash scripting for task automation and system management.
-
-#### **Troubleshooting**
-- Experienced in troubleshooting and debugging in distributed environments.
-
-## **Work Experience**
-
-### **NTSPRINT** (2022 - Present)
-
-**Senior Software Development Engineering Manager** - [ntsprint.com](https://ntsprint.com)
-- Experienced rapid career growth from SDE I to Senior SDE Manager in 18 months
-- Career progression: SDE I → SDE II → Senior SDE → Senior SDE Manager
-- Currently managing development teams, maintaining client relationships, and providing technical leadership
-
-### **Independent Projects** (2019 - Present)
-
-**Verify550** - Email Verification System - [verify550.com](https://verify550.com)
-- Designed and implemented comprehensive email verification infrastructure
-- Architected MongoDB sharding solution for high-performance requirements
-- Developed automated deployment pipelines and user interface with CakePHP
-
-**Intellyverse** - AI SaaS Platform - [intellyverse.com](https://intellyverse.com)
-- Built multimodal AI assistant platform integrating OpenAI, Anthropic, Groq, and Google
-- Implemented robust architecture using Next.js, AWS, PostgreSQL, Redis, and Cloudflare
-
-**Cubapyme** - Business Directory Platform - [cubapyme.com](https://cubapyme.com)
-- Developed centralized business platform using Next.js, Node.js, PostgreSQL
-- Implemented comprehensive user authentication and business management features
-
-**AI Site Analyzer** - Web Analysis Tool - [aiwebpageanalyzer.com](https://aiwebpageanalyzer.com)
-- Created AI-powered analysis platform using Next.js and Cloudflare infrastructure
-- Integrated OpenAI technology for advanced website analysis
-
-**Tukatanuncios** - Classified Ads Platform - [tukatanuncios.com](https://tukattanuncios.com)
-- Built full-stack marketplace platform with mobile app
-- Implemented DynamoDB-based data management and user authentication
-
-## **Soft Skills**
-
-- **Problem-Solving:** Leveraged problem-solving abilities to overcome development challenges. 
-- **Communication:** Exhibited exceptional communication skills, adept at explaining complex technical concepts to non-technical stakeholders, thereby facilitating better project understanding and execution.
-- **Adaptability:** Demonstrated adaptability in fast-paced development environments, quickly learning new technologies as required and adjusting to changing project scopes.
-- **Initiative:** Showed initiative by proactively identifying opportunities for process improvements, resulting in more efficient workflows and improved team productivity.
-- **Time Management:** Exhibited strong time management skills, consistently meeting project deadlines while maintaining high-quality standards.
-
-## **Ongoing Learning**
-
-- Currently enhancing my skills in Golang.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisciokler&theme=radical" alt="GitHub Streak" />
+</p>
