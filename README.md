@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Senior Software Developer
 
-*Over 5 years of experience in software development*
+*Over 6 years of experience in software development*
 
 ## 📫 Contact Information
 
