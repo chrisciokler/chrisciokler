@@ -64,7 +64,7 @@
 
 ## 🎓 Education & Certifications
 
-Self-taught developer with expertise in web and app development. Proficient in JavaScript, TypeScript, Node.js, PostgreSQL, and related technologies through continuous learning and hands-on experience.
+Self-taught Senior software engineer with over 6 years in software development. Strong background in PHP and Node.js, CI/CD, Linux server administration, and large-scale data systems. Built AI-driven web data extraction resilient to frequent UI changes, RAG pipelines grounded in company documentation, and billion-row PostgreSQL solutions with AI-assisted data ingestion. Experienced with AI developer tools and workflows (Claude Code, Lovable, Replit, Vercel v0, Cursor, Trae) to accelerate prototyping, code generation, testing, and refactoring. Currently deepening Golang and exploring Python and Rust.
 
 ### Certifications
 - **FreeCodeCamp:** Responsive Web Design; JavaScript Algorithms & Data Structures
