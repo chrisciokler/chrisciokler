@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chrisciokler-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chrisciokler)
 [![GitHub](https://img.shields.io/badge/GitHub-chrisciokler-181717?style=flat-square&logo=github)](https://github.com/chrisciokler/)
 [![Website](https://img.shields.io/badge/Website-chrisciokler.com-green?style=flat-square&logo=google-chrome)](https://www.chrisciokler.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B535%20296%208988-green?style=flat-square&logo=whatsapp)](tel:+5352968988)
 
 ## 💼 Professional Experience
 
