@@ -1,82 +1,128 @@
 # Christian Misael Prado Ciokler
 
-## 👨‍💻 Senior Software Developer
+## Senior Software Developer
 
 *Over 6 years of experience in software development*
 
-## 📫 Contact Information
+## Contact
 
-[![Email](https://img.shields.io/badge/Email-dev%40chrisciokler.com-blue?style=flat-square&logo=gmail)](mailto:dev@chrisciokler.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chrisciokler-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chrisciokler)
-[![GitHub](https://img.shields.io/badge/GitHub-chrisciokler-181717?style=flat-square&logo=github)](https://github.com/chrisciokler/)
-[![Website](https://img.shields.io/badge/Website-chrisciokler.com-green?style=flat-square&logo=google-chrome)](https://www.chrisciokler.com)
+- Email: [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
+- LinkedIn: [chrisciokler](https://www.linkedin.com/in/chrisciokler)
+- GitHub: [@chrisciokler](https://github.com/chrisciokler)
+- Website: [chrisciokler.com](https://www.chrisciokler.com)
 
-## 💼 Professional Experience
+## Summary
 
-### NTSprint (2023-Present)
-- Senior Software Development Engineering Manager
-- Rapid growth: SDE I → SDE II → Senior SDE → Senior SDE Manager
+Senior software engineer with over 6 years of experience building web platforms, backend systems, automation workflows, and AI-powered products. Strong background in PHP, Node.js, CI/CD, Linux server administration, and large-scale data systems.
 
-### Freelance (2020-Present)
-- [**Verify550:**](https://verify550.com) Email verification system with MongoDB sharding
-- [**Intellyverse:**](https://intellyverse.com) AI SaaS platform using Next.js, AWS, PostgreSQL
-- [**Cubapyme:**](https://cubapyme.com/) Business directory with Next.js, Node.js, PostgreSQL
-- [**AI Site Analyzer:**](https://www.aiwebpageanalyzer.com/) Web analysis tool with OpenAI integration
-- [**Escapology:**](https://escapology.com/) Escape rooms service with NodeJS Express and AWS RDS for MySQL
+Built AI-driven web data extraction systems resilient to frequent UI changes, RAG pipelines grounded in company documentation, and PostgreSQL solutions handling up to ~1B records with AI-assisted ingestion.
 
-## 🛠️ Technical Skills
+Experienced with AI developer tools and workflows including Claude Code, Lovable, Replit, Vercel v0, Cursor, and Trae to accelerate prototyping, code generation, testing, and refactoring.
+
+Currently deepening Golang and exploring Python and Rust.
+
+## Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+HTML · CSS · JavaScript · TypeScript · React · React Native · Vue.js · Next.js · Astro · Tailwind CSS
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Node.js · PHP · CakePHP 5 · Laravel · Express.js · Fastify · Hapi.js · REST APIs · GraphQL · tRPC
 
-### Cloud
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### Databases / Cache
+PostgreSQL · MySQL · MongoDB · Redis · DynamoDB
+
+### Cloud / Platforms
+Cloudflare (Pages, Workers, KV, D1, R2) · AWS (Cognito, Lambda, S3, Amplify) · GCP (Google Auth, Cloud Functions, Firebase) · Supabase
 
 ### DevOps
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+CI/CD · GitHub Actions · PM2 · Git · Linux Administration · SSL/TLS · DNS · Monitoring · Backups · Access Control
 
-## 🎓 Education & Certifications
+### Automation / Integration
+n8n (self-hosted) · Activepieces (self-hosted) · Webhooks · API Connectors · Scheduling · Retries / Error Handling · Secrets Management
 
-Senior software engineer with over 6 years in software development. Strong background in PHP and Node.js, CI/CD, Linux server administration, and large-scale data systems. Built AI-driven web data extraction resilient to frequent UI changes, RAG pipelines grounded in company documentation, and billion-row PostgreSQL solutions with AI-assisted data ingestion. Experienced with AI developer tools and workflows (Claude Code, Lovable, Replit, Vercel v0, Cursor, Trae) to accelerate prototyping, code generation, testing, and refactoring. Currently deepening Golang and exploring Python and Rust.
+### AI / Data
+RAG Pipelines · Embeddings · Vector Databases · Semantic Search · Prompt Engineering · Re-ranking · Web Scraping · AI-assisted Parsing · CSV Ingestion · Data Validation · Deduplication
 
-### Certifications
-- **FreeCodeCamp:** Responsive Web Design; JavaScript Algorithms & Data Structures
-- **Sololearn:** C Programming, JavaScript, jQuery, CSS, HTML, Web Development, Responsive Design
+### AI Developer Tools
+Claude Code · Lovable · Replit (Ghostwriter) · Vercel v0 · Cursor IDE · Trae IDE
 
-## 🌐 Languages
+## Experience
 
-- **Spanish** - Native
-- **English** - Fluent
+### NTSprint — Senior Software Development Engineering Manager  
+**2022–Present** · [ntsprint.com](https://ntsprint.com)
 
-## 📚 Ongoing Learning
+- Progressed through roles: **SDE I → SDE II → Senior SDE → Senior SDE Manager**
+- Built and maintained web applications in PHP (CakePHP, Laravel) and Node.js
+- Designed and implemented CI/CD pipelines and automated testing
+- Managed Linux servers with focus on performance, security, and uptime
+- Configured and optimized MySQL and Redis; handled SSL, monitoring, and debugging
+- Deployed and managed self-hosted automation platforms such as n8n and Activepieces
+- Built internal workflows using webhooks, API integrations, scheduling, alerting, and retry logic
+- Established governance for secrets management, access control, versioning, and backup/restore
+- Used AI developer tools to accelerate delivery, code review, testing, and documentation
+- Mentored engineers and improved team delivery processes
 
-- Currently enhancing my skills in Golang and learning Rust.
+### Verify550 — Senior Software Engineer  
+**2023–2025** · Contract/Freelance · [verify550.com](https://www.verify550.com)
+
+- Led backend development for email verification at scale
+- Implemented MongoDB sharding and optimized data flows
+- Managed MySQL, Redis, CI/CD, Linux server configs, and observability
+- Designed and deployed a RAG system using a vector database to ground LLM responses in company documentation
+- Built document ingestion pipelines with chunking, embeddings, retrieval, context injection, and re-ranking
+- Integrated the RAG service into internal tools and support workflows
+- Set up evaluation and monitoring to track response quality over time
+
+### Mazzarino Construction & Development LTD — Senior Software Engineer  
+**2024–2025** · AI Web Data Extraction · [mazzcondev.com](https://www.mazzcondev.com)
+
+- Built an AI-driven web scraping and data extraction system for third-party websites with frequently changing UIs
+- Implemented adaptive parsers that infer field semantics from page context instead of relying only on static selectors
+- Designed pipelines for page acquisition, normalization, AI parsing to structured JSON, validation, and drift monitoring
+- Established human-in-the-loop review and iterative improvement for accuracy and robustness
+
+### Quickiemarketing — Senior Software Engineer  
+**2025–Present** · Big Data Sales Platform · [quickiemarketing.com](https://quickiemarketing.com)
+
+- Built and scaled a PostgreSQL platform handling up to ~1B sales records
+- Implemented AI-assisted ingestion to categorize and normalize noisy CSV uploads
+- Developed TypeScript APIs for high-throughput ingestion and querying
+- Integrated MongoDB for complementary data use cases
+- Led DevOps for deployment, monitoring, and performance/cost optimization
+
+### Freelance — Full Stack Developer  
+**2020–Present**
+
+- Delivered full-stack web and mobile applications using React, React Native, Next.js, Node.js, and PHP
+- Built REST, GraphQL, and tRPC APIs
+- Managed PostgreSQL, MySQL, MongoDB, and DynamoDB
+- Integrated AWS, GCP, Cloudflare, and Supabase
+- Implemented authentication and secure deployments
+
+## Selected Projects
+
+- [**Verify550**](https://verify550.com) — Email verification system with MongoDB sharding and a RAG assistant grounded on internal documentation
+- [**Intellyverse**](https://intellyverse.com) — AI SaaS platform using Next.js, AWS, and PostgreSQL
+- [**Cubapyme**](https://cubapyme.com) — Business directory built with Next.js, Node.js, PostgreSQL, and Supabase
+- [**AI Site Analyzer**](https://aiwebpageanalyzer.com) — AI-powered website analyzer using Next.js, Cloudflare Workers, and OpenAI
+- [**Escapology**](https://escapology.com) — Escape rooms platform built with Node.js (Express) and AWS RDS for MySQL
+- [**Mazzarino Construction & Development LTD**](https://www.mazzcondev.com) — AI web data extraction system resilient to constantly changing site UIs
+- [**Quickiemarketing**](https://quickiemarketing.com) — Big data sales platform with PostgreSQL (~1B records), TypeScript APIs, MongoDB, AI-driven ingestion, and DevOps
+
+## Soft Skills
+
+Problem-solving · Communication · Adaptability · Initiative · Time Management
+
+## Languages
+
+- Spanish — Native
+- English — Fluent
+
+## Currently Learning
+
+- Deepening: **Golang**
+- Exploring: **Python**, **Rust**
 
 ---
 
