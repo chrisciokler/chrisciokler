@@ -15,7 +15,7 @@
 
 Senior software engineer with over 6 years of experience building web platforms, backend systems, automation workflows, and AI-powered products. Strong background in PHP, Node.js, CI/CD, Linux server administration, and large-scale data systems.
 
-Built AI-driven web data extraction systems resilient to frequent UI changes, RAG pipelines grounded in company documentation, and PostgreSQL solutions handling up to ~1B records with AI-assisted ingestion.
+Built AI-driven web data extraction systems resilient to frequent UI changes, RAG pipelines grounded in company documentation, HIPAA-aware AI documentation SaaS for healthcare, and PostgreSQL solutions handling up to ~1B records with AI-assisted ingestion.
 
 Experienced with AI developer tools and workflows including Claude Code, Lovable, Replit, Vercel v0, Cursor, and Trae to accelerate prototyping, code generation, testing, and refactoring.
 
@@ -24,28 +24,34 @@ Currently deepening Golang and exploring Python and Rust.
 ## Tech Stack
 
 ### Frontend
-HTML · CSS · JavaScript · TypeScript · React · React Native · Vue.js · Next.js · Astro · Tailwind CSS
+HTML · CSS · JavaScript · TypeScript · React · React Native · Vue.js · Next.js · Next.js 16 (App Router, RSC) · Astro · Tailwind CSS · shadcn/ui · Radix UI · Base UI · LegendApp State · OGL/WebGL · Embla · Recharts
 
 ### Backend
-Node.js · PHP · CakePHP 5 · Laravel · Express.js · Fastify · Hapi.js · REST APIs · GraphQL · tRPC
+Node.js · PHP · CakePHP 5 · Laravel · Bun · Hono (Cloudflare Workers) · Express.js · Fastify · Hapi.js · REST APIs · GraphQL · tRPC · Zod validation · Webhooks
 
 ### Databases / Cache
-PostgreSQL · MySQL · MongoDB · Redis · DynamoDB
+PostgreSQL · Supabase (Postgres, Auth, RLS, Realtime) · MySQL · MongoDB · Redis · DynamoDB · D1
 
 ### Cloud / Platforms
-Cloudflare (Pages, Workers, KV, D1, R2) · AWS (Cognito, Lambda, S3, Amplify) · GCP (Google Auth, Cloud Functions, Firebase) · Supabase
+Cloudflare (Pages, Workers, KV, D1, R2, Wrangler, Workflows) · AWS (Cognito, Lambda, S3, Amplify) · GCP (Google Auth, Cloud Functions, Firebase) · Supabase · Vercel (monorepo, Bun runtime, edge config)
+
+### Payments
+Stripe (Checkout, Billing Portal, Webhooks, Subscriptions) · Quota-aware billing enforcement
 
 ### DevOps
-CI/CD · GitHub Actions · PM2 · Git · Linux Administration · SSL/TLS · DNS · Monitoring · Backups · Access Control
+CI/CD · GitHub Actions · PM2 · Git · Linux Administration · SSL/TLS · DNS · Monitoring · Backups · Access Control · Bun Workspaces (monorepos)
 
 ### Automation / Integration
-n8n (self-hosted) · Activepieces (self-hosted) · Webhooks · API Connectors · Scheduling · Retries / Error Handling · Secrets Management
+n8n (self-hosted) · Activepieces (self-hosted) · Cloudflare Workflows · Webhooks · API Connectors · Scheduling · Retries / Error Handling · Secrets Management
 
 ### AI / Data
-RAG Pipelines · Embeddings · Vector Databases · Semantic Search · Prompt Engineering · Re-ranking · Web Scraping · AI-assisted Parsing · CSV Ingestion · Data Validation · Deduplication
+RAG Pipelines · Embeddings · Vector Databases · Semantic Search · Prompt Engineering · Re-ranking · OpenRouter SDK · Structured JSON generation · AI-driven redaction · Web Scraping · AI-assisted Parsing · CSV Ingestion · Data Validation · Deduplication
+
+### Security / Compliance
+PHI encryption at rest (AES-256, app-layer crypto with key rotation) · HIPAA-aligned data handling · Supabase JWT auth · Rate limiting · CORS · Stripe signature verification
 
 ### AI Developer Tools
-Claude Code · Lovable · Replit (Ghostwriter) · Vercel v0 · Cursor IDE · Trae IDE
+Claude Code · Lovable · Replit · Vercel v0 · Cursor IDE · Trae IDE
 
 ## Experience
 
@@ -62,6 +68,14 @@ Claude Code · Lovable · Replit (Ghostwriter) · Vercel v0 · Cursor IDE · Tra
 - Established governance for secrets management, access control, versioning, and backup/restore
 - Used AI developer tools to accelerate delivery, code review, testing, and documentation
 - Mentored engineers and improved team delivery processes
+
+### Intellyverse — Senior Software Engineer
+**2023, 2026–Present** · AI SaaS Platform · [intellyverse.com](https://intellyverse.com)
+
+- 2023: Built the initial release of the AI SaaS platform with Next.js, AWS, and PostgreSQL; implemented core product features, auth, and APIs
+- 2026–Present: Re-engaged to evolve the platform — modernized the stack, scaled infrastructure on AWS, and shipped new AI-powered capabilities
+- Designed and shipped AI-driven product features end-to-end (frontend, backend, data, and AI integration)
+- Owned deployment, monitoring, and cost/performance tuning across services
 
 ### Verify550 — Senior Software Engineer  
 **2023–2025** · Contract/Freelance · [verify550.com](https://www.verify550.com)
@@ -102,6 +116,7 @@ Claude Code · Lovable · Replit (Ghostwriter) · Vercel v0 · Cursor IDE · Tra
 
 ## Selected Projects
 
+- [**PT AI Note Helper**](https://ptainotes.com) — HIPAA-aware AI documentation SaaS for physical therapists; Bun monorepo with a Next.js 16 web app, Cloudflare Workers Hono API, Cloudflare Workflows for durable background AI note generation, Supabase auth + Postgres + Realtime, Stripe subscriptions, AES-256 encrypted PHI at rest with key rotation, OpenRouter-powered structured AI notes (progress + discharge), plan/limit enforcement, and AI redaction guardrails
 - [**Verify550**](https://verify550.com) — Email verification system with MongoDB sharding and a RAG assistant grounded on internal documentation
 - [**Intellyverse**](https://intellyverse.com) — AI SaaS platform using Next.js, AWS, and PostgreSQL
 - [**Cubapyme**](https://cubapyme.com) — Business directory built with Next.js, Node.js, PostgreSQL, and Supabase
