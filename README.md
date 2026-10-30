@@ -1,147 +1,113 @@
-# Christian Misael Prado Ciokler
+# 👋 Hi, I'm Christian Misael Prado Ciokler
 
-## Senior Software Developer
+**Senior Software Developer | AI Engineer** — 6+ years building production software
 
-*Over 6 years of experience in software development*
-
-## Contact
-
-- Email: [dev@chrisciokler.com](mailto:dev@chrisciokler.com)
-- LinkedIn: [chrisciokler](https://www.linkedin.com/in/chrisciokler)
-- GitHub: [@chrisciokler](https://github.com/chrisciokler)
-- Website: [chrisciokler.com](https://www.chrisciokler.com)
-
-## Summary
-
-Senior software engineer with over 6 years of experience building web platforms, backend systems, automation workflows, and AI-powered products. Strong background in PHP, Node.js, CI/CD, Linux server administration, and large-scale data systems.
-
-Built AI-driven web data extraction systems resilient to frequent UI changes, RAG pipelines grounded in company documentation, HIPAA-aware AI documentation SaaS for healthcare, and PostgreSQL solutions handling up to ~1B records with AI-assisted ingestion.
-
-Experienced with AI developer tools and workflows including Claude Code, Lovable, Replit, Vercel v0, Cursor, and Trae to accelerate prototyping, code generation, testing, and refactoring.
-
-Currently deepening Golang and exploring Python and Rust.
-
-## Tech Stack
-
-### Frontend
-HTML · CSS · JavaScript · TypeScript · React · React Native · Vue.js · Next.js · Next.js 16 (App Router, RSC) · Astro · Tailwind CSS · shadcn/ui · Radix UI · Base UI · LegendApp State · OGL/WebGL · Embla · Recharts
-
-### Backend
-Node.js · PHP · CakePHP 5 · Laravel · Bun · Hono (Cloudflare Workers) · Express.js · Fastify · Hapi.js · REST APIs · GraphQL · tRPC · Zod validation · Webhooks
-
-### Databases / Cache
-PostgreSQL · Supabase (Postgres, Auth, RLS, Realtime) · MySQL · MongoDB · Redis · DynamoDB · D1
-
-### Cloud / Platforms
-Cloudflare (Pages, Workers, KV, D1, R2, Wrangler, Workflows) · AWS (Cognito, Lambda, S3, Amplify) · GCP (Google Auth, Cloud Functions, Firebase) · Supabase · Vercel (monorepo, Bun runtime, edge config)
-
-### Payments
-Stripe (Checkout, Billing Portal, Webhooks, Subscriptions) · Quota-aware billing enforcement
-
-### DevOps
-CI/CD · GitHub Actions · PM2 · Git · Linux Administration · SSL/TLS · DNS · Monitoring · Backups · Access Control · Bun Workspaces (monorepos)
-
-### Automation / Integration
-n8n (self-hosted) · Activepieces (self-hosted) · Cloudflare Workflows · Webhooks · API Connectors · Scheduling · Retries / Error Handling · Secrets Management
-
-### AI / Data
-RAG Pipelines · Embeddings · Vector Databases · Semantic Search · Prompt Engineering · Re-ranking · OpenRouter SDK · Structured JSON generation · AI-driven redaction · Web Scraping · AI-assisted Parsing · CSV Ingestion · Data Validation · Deduplication
-
-### Security / Compliance
-PHI encryption at rest (AES-256, app-layer crypto with key rotation) · HIPAA-aligned data handling · Supabase JWT auth · Rate limiting · CORS · Stripe signature verification
-
-### AI Developer Tools
-Claude Code · Lovable · Replit · Vercel v0 · Cursor IDE · Trae IDE
-
-## Experience
-
-### NTSprint — Senior Software Development Engineering Manager  
-**2022–Present** · [ntsprint.com](https://ntsprint.com)
-
-- Progressed through roles: **SDE I → SDE II → Senior SDE → Senior SDE Manager**
-- Built and maintained web applications in PHP (CakePHP, Laravel) and Node.js
-- Designed and implemented CI/CD pipelines and automated testing
-- Managed Linux servers with focus on performance, security, and uptime
-- Configured and optimized MySQL and Redis; handled SSL, monitoring, and debugging
-- Deployed and managed self-hosted automation platforms such as n8n and Activepieces
-- Built internal workflows using webhooks, API integrations, scheduling, alerting, and retry logic
-- Established governance for secrets management, access control, versioning, and backup/restore
-- Used AI developer tools to accelerate delivery, code review, testing, and documentation
-- Mentored engineers and improved team delivery processes
-
-### Intellyverse — Senior Software Engineer
-**2023, 2026–Present** · AI SaaS Platform · [intellyverse.com](https://intellyverse.com)
-
-- 2023: Built the initial release of the AI SaaS platform with Next.js, AWS, and PostgreSQL; implemented core product features, auth, and APIs
-- 2026–Present: Re-engaged to evolve the platform — modernized the stack, scaled infrastructure on AWS, and shipped new AI-powered capabilities
-- Designed and shipped AI-driven product features end-to-end (frontend, backend, data, and AI integration)
-- Owned deployment, monitoring, and cost/performance tuning across services
-
-### Verify550 — Senior Software Engineer  
-**2023–2025** · Contract/Freelance · [verify550.com](https://www.verify550.com)
-
-- Led backend development for email verification at scale
-- Implemented MongoDB sharding and optimized data flows
-- Managed MySQL, Redis, CI/CD, Linux server configs, and observability
-- Designed and deployed a RAG system using a vector database to ground LLM responses in company documentation
-- Built document ingestion pipelines with chunking, embeddings, retrieval, context injection, and re-ranking
-- Integrated the RAG service into internal tools and support workflows
-- Set up evaluation and monitoring to track response quality over time
-
-### Mazzarino Construction & Development LTD — Senior Software Engineer  
-**2024–2025** · AI Web Data Extraction · [mazzcondev.com](https://www.mazzcondev.com)
-
-- Built an AI-driven web scraping and data extraction system for third-party websites with frequently changing UIs
-- Implemented adaptive parsers that infer field semantics from page context instead of relying only on static selectors
-- Designed pipelines for page acquisition, normalization, AI parsing to structured JSON, validation, and drift monitoring
-- Established human-in-the-loop review and iterative improvement for accuracy and robustness
-
-### Quickiemarketing — Senior Software Engineer  
-**2025–Present** · Big Data Sales Platform · [quickiemarketing.com](https://quickiemarketing.com)
-
-- Built and scaled a PostgreSQL platform handling up to ~1B sales records
-- Implemented AI-assisted ingestion to categorize and normalize noisy CSV uploads
-- Developed TypeScript APIs for high-throughput ingestion and querying
-- Integrated MongoDB for complementary data use cases
-- Led DevOps for deployment, monitoring, and performance/cost optimization
-
-### Freelance — Full Stack Developer  
-**2020–Present**
-
-- Delivered full-stack web and mobile applications using React, React Native, Next.js, Node.js, and PHP
-- Built REST, GraphQL, and tRPC APIs
-- Managed PostgreSQL, MySQL, MongoDB, and DynamoDB
-- Integrated AWS, GCP, Cloudflare, and Supabase
-- Implemented authentication and secure deployments
-
-## Selected Projects
-
-- [**PT AI Note Helper**](https://ptainotes.com) — HIPAA-aware AI documentation SaaS for physical therapists; Bun monorepo with a Next.js 16 web app, Cloudflare Workers Hono API, Cloudflare Workflows for durable background AI note generation, Supabase auth + Postgres + Realtime, Stripe subscriptions, AES-256 encrypted PHI at rest with key rotation, OpenRouter-powered structured AI notes (progress + discharge), plan/limit enforcement, and AI redaction guardrails
-- [**Verify550**](https://verify550.com) — Email verification system with MongoDB sharding and a RAG assistant grounded on internal documentation
-- [**Intellyverse**](https://intellyverse.com) — AI SaaS platform using Next.js, AWS, and PostgreSQL
-- [**Cubapyme**](https://cubapyme.com) — Business directory built with Next.js, Node.js, PostgreSQL, and Supabase
-- [**AI Site Analyzer**](https://aiwebpageanalyzer.com) — AI-powered website analyzer using Next.js, Cloudflare Workers, and OpenAI
-- [**Escapology**](https://escapology.com) — Escape rooms platform built with Node.js (Express) and AWS RDS for MySQL
-- [**Mazzarino Construction & Development LTD**](https://www.mazzcondev.com) — AI web data extraction system resilient to constantly changing site UIs
-- [**Quickiemarketing**](https://quickiemarketing.com) — Big data sales platform with PostgreSQL (~1B records), TypeScript APIs, MongoDB, AI-driven ingestion, and DevOps
-
-## Soft Skills
-
-Problem-solving · Communication · Adaptability · Initiative · Time Management
-
-## Languages
-
-- Spanish — Native
-- English — Fluent
-
-## Currently Learning
-
-- Deepening: **Golang**
-- Exploring: **Python**, **Rust**
+[![Website](https://img.shields.io/badge/Website-chrisciokler.com-blue?style=flat-square)](https://www.chrisciokler.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@chrisciokler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisciokler)
+[![Email](https://img.shields.io/badge/Email-dev%40chrisciokler.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@chrisciokler.com)
 
 ---
 
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisciokler&theme=radical" alt="GitHub Streak" />
-</p>
+Senior software engineer specializing in **applied AI/LLM capabilities, automation, and data-intensive systems**. Deep background in PHP, Node.js, TypeScript, and Python, with strength in CI/CD, Linux server administration, and large-scale data systems — including a **billion-row PostgreSQL platform**.
+
+- 🤖 Production **RAG pipelines, semantic search, and LLM agent runtimes** (LangGraph / LangChain / Vercel AI SDK)
+- 🕸️ Resilient **AI-driven web data extraction** that survives changing UIs
+- 📧 Backend services for **email verification at scale** (MongoDB sharding)
+- 🏥 **HIPAA-aligned SaaS** handling encrypted patient data (AES-256, key rotation)
+- ⚙️ Self-hosted **workflow orchestration** (n8n, Activepieces) and full CI/CD ownership
+- 🛠️ Power user of AI developer tools (Claude Code, Cursor, Vercel v0)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square)
+
+**AI / LLM Engineering**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F0?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+`RAG` `Embeddings` `Vector DBs` `Semantic Search` `Prompt Engineering` `Evals / Re-ranking` `Multi-agent (deepagents)` `Multimodal (vision, OCR, transcription)` `Tavily web search` `AI redaction`
+
+**Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**DevOps & Practices**
+`GitHub Actions` `CI/CD` `PM2` `Linux administration` `SSL/TLS` `DNS` `Monitoring/observability` `Backups & secrets management` `Microservices` `Monorepos (Bun workspaces)` `Edge/serverless APIs`
+
+---
+
+## 💼 Experience
+
+| Company | Role | Highlights |
+|---|---|---|
+| **[NTSprint](https://ntsprint.com)** (2022–Present) | Senior SDE Lead *(SDE I → Senior SDE Lead)* | PHP/Node/Python apps, CI/CD pipelines, Linux servers (MySQL, SQL Server, Redis), self-hosted n8n/Activepieces automation, team leadership |
+| **[Quickiemarketing](https://quickiemarketing.com)** (2025, Consultant) | Senior Software Engineer | ~1B-record PostgreSQL sales platform, AI-assisted CSV ingestion, high-throughput TypeScript APIs, MongoDB, DevOps |
+| **[Intellyverse](https://intellyverse.com)** (2023, 2026, Consultant) | Senior Software Engineer | AI SaaS platform (Next.js, AWS, PostgreSQL); built initial release and later modernized stack + shipped AI features |
+| **[Verify550](https://www.verify550.com)** (2023–2025, Contract) | Senior Software Engineer | Email verification at scale, MongoDB sharding, production RAG assistant grounded on internal docs |
+| **[Mazzarino Construction](https://www.mazzcondev.com)** (2024–2025) | Senior Software Engineer | AI web data extraction resilient to UI/DOM changes; adaptive parsers, human-in-the-loop review, drift monitoring |
+| **Freelance** (2020–Present) | Full Stack Dev / AI & Automation | AI-enabled apps (RAG, semantic search, workflow orchestration), APIs (REST/GraphQL/tRPC), AWS/GCP/Cloudflare/Azure/Supabase |
+
+---
+
+## 🛠️ Selected Projects
+
+- **[PT AI Note Helper](https://ptainotes.com)** — HIPAA-aware AI documentation SaaS for physical therapists. Bun monorepo, Next.js 16 + Cloudflare Workers (Hono), Cloudflare Workflows for durable AI note generation, Supabase, Stripe, AES-256 encrypted PHI with key rotation, OpenRouter, AI redaction guardrails.
+- **AI Meeting Copilot & LLM Agent Runtime** — Live meeting suggestions, follow-ups & recaps; resumable LangGraph agents with SQLite checkpointing, turn-level rollback/branching, approval gates, and persistent memory with history compaction; OpenRouter multi-provider streaming with per-session usage/cost metering; Cloudflare Workers edge API (chat, vision, OCR, transcription, web search).
+- **[Verify550](https://verify550.com)** — Email verification system with MongoDB sharding + RAG assistant on internal docs.
+- **[Intellyverse](https://intellyverse.com)** — AI SaaS platform (Next.js, AWS, PostgreSQL).
+- **[Quickiemarketing](https://quickiemarketing.com)** — Big data sales platform (~1B PostgreSQL records, TypeScript APIs, AI-driven ingestion).
+- **[AI Site Analyzer](https://aiwebpageanalyzer.com)** — AI-powered website analyzer (Next.js, Cloudflare Workers, OpenAI).
+- **[Escapology](https://escapology.com)** — Escape rooms platform (Node.js/Express, AWS RDS MySQL).
+- **[Cubapyme](https://cubapyme.com)** — Business directory (Next.js, Node.js, PostgreSQL, Supabase).
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 **Spanish** — Native
+- 🇺🇸 **English** — Fluent
+
+## 📈 Currently Learning
+
+- Deepening: **Python** (data/LLM tooling), **Golang**
+- Exploring: **Rust**
+
+---
+
+<div align="center">
+<b>Let's build something great.</b> · [dev@chrisciokler.com](mailto:dev@chrisciokler.com) · [chrisciokler.com](https://www.chrisciokler.com)
+</div>
