@@ -21,6 +21,16 @@ Senior software engineer specializing in **applied AI/LLM capabilities, automati
 
 ---
 
+## 📊 GitHub Stats
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisciokler&show_icons=true&count_private=true&theme=transparent)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisciokler&layout=compact&langs_count=8&theme=transparent)](https://github.com/chrisciokler)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chrisciokler&theme=transparent&hide_long_streak=true)](https://git.io/streak-stats)
+
+---
+
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**
@@ -95,6 +105,13 @@ Senior software engineer specializing in **applied AI/LLM capabilities, automati
 - **[Cubapyme](https://cubapyme.com)** — Business directory (Next.js, Node.js, PostgreSQL, Supabase).
 
 ---
+
+## 📚 Education & Certifications
+
+Self-taught developer with 6+ years of hands-on production experience.
+
+- **FreeCodeCamp** — Responsive Web Design; JavaScript Algorithms & Data Structures
+- **Sololearn** — C, JavaScript, jQuery, CSS, HTML, Web Development, Responsive Design
 
 ## 🌍 Languages
 
